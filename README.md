@@ -10,7 +10,7 @@ To build a CNN based model which can accurately detect melanoma. Melanoma is a t
 
 
 ## General Information
-This project is made in aim to take in various images of skin conditions and detect wether or not it is cancerous (melanoma) the dataset used in this projec tis provided by International Skin Imaging Collaboration (ISIC)
+This project is made in aim to take in various images of skin conditions and detect wether or not it is cancerous (melanoma) the dataset used in this project is provided by International Skin Imaging Collaboration (ISIC)
 
 
 ## Conclusions
